@@ -69,3 +69,7 @@ CNCF Kubernetes
 
 
 &nbsp;
+
+We are online, learning is welcome. Message me [here](https://www.linkedin.com/in/sekarchandra).
+
+&nbsp;
