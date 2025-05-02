@@ -41,7 +41,7 @@ The course  highlights
 
 Microservices and Cloud Security patterns
 
-Virtual Class: Microservices: Security Online Class 
+Virtual Class: Microservices Security Online Class 
 [Microservices: Security Online Class | LinkedIn Learning](https://www.linkedin.com/learning/microservices-security)
 
 Of course learn Microservices Security patterns (and Cloud Security too), it is not optional and not a consequence. In fact it is shift-left learning for applying Infrastructure Authentication/Authorization fundamentals from get-go.
@@ -54,7 +54,7 @@ Kubernetes Patterns
 Book: Kubernetes Patterns, 2nd Edition, Bilgin Ibryam and Roland Huss
 [Kubernetes Patterns, 2nd Edition | Red Hat Developer](https://developers.redhat.com/e-books/kubernetes-patterns)
 
-Understand, correlate and apply the Problem/Solutions by learning most Kubernetes Patterns
+Understand, correlate, and apply the Problem/Solutions by learning most Kubernetes Patterns
 
 
 &nbsp;
