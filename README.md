@@ -7,7 +7,7 @@ My notes about comprehensive Kubernetes coursework resources, to begin learning,
 
 Mischa van den Burg’s Kubecraft Community
 
-Virtual Class and Community:  [Sign up](https://www.skool.com/signup?ref=0fa2a08bcd7444dc817f466d8020c321)
+Virtual Class and Community:  [Sign up](https://www.skool.com/kubecraft/about?ref=0fa2a08bcd7444dc817f466d8020c321)
 
 Mischa’s course is a strong foundation on the challenges of setting up a home lab using only Kubernetes. You also join an active community for your career benefit.
 
@@ -18,7 +18,7 @@ This home lab is very stable and a long term investment. The are choices for you
 - Have a Backup/Restore strategy, Conceptually it is a unique and well orchestrated toolchain for highly available multiple home devices
 
 Mischa van den Burg’s Kubecraft Community
- [Sign up](https://www.skool.com/signup?ref=0fa2a08bcd7444dc817f466d8020c321)
+ [Sign up](https://www.skool.com/kubecraft/about?ref=0fa2a08bcd7444dc817f466d8020c321)
 
 
 &nbsp;
